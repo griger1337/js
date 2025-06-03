@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "654f495a1391593fdee23c79",
+    "area_balconies_total": 0,
+    "area_given": 58.11,
+    "area_kitchen": 20.85,
+    "area_rooms": "10.84+11.82",
+    "area_rooms_total": 22.66,
+    "area_total": 58.12,
+    "block_address": "Сибирский тракт",
+    "block_builder": "654c79369032d65ce35a24d8",
+    "block_builder_name": "Страна Девелопмент. Екатеринбург",
+    "block_city": "650974f78d34c0f790a012a9",
+    "block_crm_id": 5682019960657573,
+    "block_district": "651e573d32000f58d452e5eb",
+    "block_district_name": "Екатеринбург"
+  },
+  {
+    "_id": "652975ca273e0f719dfc88ab",
+    "area_balconies_total": 4.8,
+    "area_given": 52.43,
+    "area_kitchen": 12.86,
+    "area_rooms": "23.29",
+    "area_rooms_total": 23.29,
+    "area_total": 50.03,
+    "block_address": "ул Ясная",
+    "block_builder": "6526260e2b9fd4ba10cb69b6",
+    "block_builder_name": "ГК Практика",
+    "block_city": "650974f78d34c0f790a012a9",
+    "block_crm_id": 5681073460571896,
+    "block_district": "651e573d32000f58d452e5eb",
+    "block_district_name": "Екатеринбург"
+
+  }
+]
